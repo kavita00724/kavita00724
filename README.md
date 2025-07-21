@@ -4,9 +4,7 @@
 I'm a **Senior Analyst** with 7+ years of experience transforming data into actionable business insights across e-commerce and real estate industries. I'm passionate about leveraging data to drive strategic decisions and improve business performance.
 
 - 🔭 I'm currently working on **advanced analytics projects** using SQL, Python, and Power BI
-- 🌱 I'm currently learning **machine learning techniques** and **advanced statistical modeling**
 - 👯 I'm looking to collaborate on **data analytics projects** and **business intelligence solutions**
-- 🤔 I'm looking for help with **cloud data platforms** and **MLOps best practices**
 - 💬 Ask me about **data analysis**, **A/B testing**, **business intelligence**, and **e-commerce analytics**
 - 📫 How to reach me: **Kavita00724@gmail.com** | [LinkedIn](https://linkedin.com/in/your-profile)
 - 📍 Based in **Berlin, Germany**
@@ -26,8 +24,6 @@ I'm a **Senior Analyst** with 7+ years of experience transforming data into acti
 
 ### Analytics & Tools
 ![A/B Testing](https://img.shields.io/badge/A/B%20Testing-Expert-purple)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Advanced-lightblue)
-![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-Intermediate-pink)
 
 ## Professional Experience 💼
 

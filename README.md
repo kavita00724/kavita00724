@@ -1,7 +1,7 @@
 # Hi there, I'm Kavita! 👋
 
 ## About Me 🚀
-I'm a **Senior Data Analyst** with 7+ years of experience transforming data into actionable business insights across e-commerce and real estate industries. I'm passionate about leveraging data to drive strategic decisions and improve business performance.
+I'm a **Senior Analyst** with 7+ years of experience transforming data into actionable business insights across e-commerce and real estate industries. I'm passionate about leveraging data to drive strategic decisions and improve business performance.
 
 - 🔭 I'm currently working on **advanced analytics projects** using SQL, Python, and Power BI
 - 🌱 I'm currently learning **machine learning techniques** and **advanced statistical modeling**
